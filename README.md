@@ -1,4 +1,6 @@
 ### Hi there 👋
-I’m a software engineer based in the Greensboro, NC area who builds (and sometimes designs) engaging user experiences.
+I’m a software engineer based in Atlanta who builds engaging user experiences.
 - 😄 Pronouns: he/him or they/them
-- 🌱 I’m currently learning more about SQL and React Native
+- 🌱 I’m currently working on my react native skills
+- 🐏 UNC alum, Hack Reactor grad
+ 
